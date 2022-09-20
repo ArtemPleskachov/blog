@@ -19,6 +19,6 @@
     <title>My first blog</title>
 </head>
 <body>
- <div class="btn btn-info">Hello world I`m Bootstrap</div>
+ <div class="btn btn-info">Hello world I`m    Bootstrap</div>
 </body>
 </html>
